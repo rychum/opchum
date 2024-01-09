@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @opchum
-- 👀 I’m interested in web development & design
-- 🌱 I’m currently learning React.js :)
-- 💞️ I’m looking to collaborate on ...
+- 👀 Doing web development & design as a hobby & living
+- 🌱 Surviving in an everlasting evolving Javascript Framework
 - 📫 How to reach me 1) email: muhcnayr@yahoo.com
 
 <!---
